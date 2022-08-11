@@ -1,0 +1,25 @@
+{
+  "name": "cypress-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisandre69/cypress-docker.git"
+  },
+  "keywords": [],
+  "author": "Luis Abreu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisandre69/cypress-docker/issues"
+  },
+  "homepage": "https://github.com/luisandre69/cypress-docker#readme",
+  "dependencies": {
+    "cypress": "^9.7.0",
+    "prettier": "^2.7.1"
+  }
+}
